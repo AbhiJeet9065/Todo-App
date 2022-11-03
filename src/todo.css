@@ -192,6 +192,7 @@ input:focus {
   position: relative;
   transition-duration: 0.4s;
   overflow: hidden;
+  text-align: center;
 }
 
 .effect04::before,
